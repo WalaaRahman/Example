@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(160, 205, 190);
+}
+
+form {
+    width: 500px;
+    padding: 6px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 6px;
+    outline: none;
+    border: none;
+    margin: 6px 0px;
+}
+
+#btn {
+    width: 150px;
+    padding: 6px;
+    cursor: pointer;
+}
